@@ -1,0 +1,12 @@
+name: fahrgastzahlen
+title: fahrgastzahlen
+username:
+account: gecko-gis
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 820833
+bundleId: 2394625
+url: https://gecko-gis.shinyapps.io/fahrgastzahlen/
+when: 1567867334.76975
+asMultiple: FALSE
+asStatic: FALSE
